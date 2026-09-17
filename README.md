@@ -63,7 +63,7 @@ Watch the complete end-to-end walkthrough demonstrating onboarding, interactive 
 
 <div align="center">
 
-https://github.com/user-attachments/assets/demo-video-placeholder *(Local file available below)*
+[Go to file](https://drive.google.com/file/d/1fdwcIu-PEz1ir1Ty-1IAjUNW75siFkqM/view?usp=drive_link) *(Local file available below)*
 
 <video src="./samples/screen-20260912-042441.mp4" width="70%" controls="controls" poster="./samples/screen-20260912-042441_exported_7413.jpg">
   Your browser does not support the video tag. You can view the demo video directly at <a href="./samples/screen-20260912-042441.mp4"><code>./samples/screen-20260912-042441.mp4</code></a>.
